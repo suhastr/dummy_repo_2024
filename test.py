@@ -1,3 +1,4 @@
 #!shebang/usr/bin/python3
-print('hello')
+print('hello',end='')
+print('world')
 
